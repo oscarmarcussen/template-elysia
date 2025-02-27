@@ -1,0 +1,11 @@
+# Directories
+node_modules/
+dist/
+build/
+coverage/
+
+# Files
+package-lock.json
+yarn.lock
+bun.lockb
+.gitignore
